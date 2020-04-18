@@ -1,4 +1,4 @@
-# Audiobooks-Business-Usecase
+# Audiobooks Business Usecase
 Classifying whether a customer will buy audiobooks again or not using neural network model.
 
 
